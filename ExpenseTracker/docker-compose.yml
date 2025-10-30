@@ -1,0 +1,88 @@
+version: "3.9"
+
+services:
+  expensetracker-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8000
+      - ConnectionStrings__MongoDb=mongodb://mongo_user:mongo_pass@mongo:27017/ExpenseTrackerLogs?authSource=admin
+      - ConnectionStrings__Redis=redis:6379
+      - DatabaseSettings__DB_HOST=postgres
+      - DatabaseSettings__DB_PORT=5432
+      - DatabaseSettings__DB_USERNAME=postgres
+      - DatabaseSettings__DB_PASSWORD=yourStrongPassword
+      - DatabaseSettings__DB_NAME=ExpenseTrackerDb
+      - JwtSettings__Secret=ThisIsAStrongAndLongSecretForDockerTesting123!
+      - JwtSettings__Issuer=ExpenseTrackerAPI
+      - JwtSettings__Audience=ExpenseTrackerClient
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      mongo:
+        condition: service_healthy
+    networks:
+      - expense-tracker-network
+
+  postgres:
+    image: postgres:15
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=yourStrongPassword
+      - POSTGRES_DB=ExpenseTrackerDb
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    ports:
+    - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - expense-tracker-network
+
+  mongo:
+    image: mongo:latest
+    container_name: expensetracker-mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongo_user
+      MONGO_INITDB_ROOT_PASSWORD: mongo_pass
+      MONGO_INITDB_DATABASE: ExpenseTrackerLogs
+    ports:
+      - "27017:27017"
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.runCommand({ ping: 1 }).ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - expense-tracker-network
+
+
+  redis:
+    image: redis:latest
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    networks:
+      - expense-tracker-network
+
+# 🧱 Add this section (was missing)
+volumes:
+  postgres_data:
+  mongo_data:
+  
+networks:
+  expense-tracker-network:
+    driver: bridge

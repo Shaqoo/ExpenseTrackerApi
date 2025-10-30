@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\endpoints\\activitylogendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\endpoints\\activitylogendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\extensions\\databaseregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\extensions\\databaseregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\extensions\\otherservicesregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\extensions\\otherservicesregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\extensions\\serviceregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\extensions\\serviceregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\mongoactivitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\mongoactivitylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\kpirecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\kpirecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\cubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\cubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\exdbcontext\\expensedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\exdbcontext\\expensedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\endpoints\\reportendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\endpoints\\reportendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\endpoints\\expenseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\endpoints\\expenseendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\endpoints\\categoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\endpoints\\categoryendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\endpoints\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\endpoints\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\configurations\\dbinitializer\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\configurations\\dbinitializer\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\migrations\\expensedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\migrations\\expensedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\migrations\\20251027105934_nnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\migrations\\20251027105934_nnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\exdbcontext\\expensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\exdbcontext\\expensedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\extensions\\repositoryregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\extensions\\repositoryregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\admin\\onedrive\\desktop\\expensetrackerapi\\expensetracker\\exdbcontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF96206-638F-D42C-EC66-B3D63A12BF07}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\exdbcontext\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OtherServicesRegistrationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Extensions\\OtherServicesRegistrationExtension.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Extensions\\OtherServicesRegistrationExtension.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Extensions\\OtherServicesRegistrationExtension.cs",
+              "RelativeToolTip": "ExpenseTracker\\Extensions\\OtherServicesRegistrationExtension.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:42:55.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseRegistrationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Extensions\\DataBaseRegistrationExtension.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Extensions\\DataBaseRegistrationExtension.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Extensions\\DataBaseRegistrationExtension.cs",
+              "RelativeToolTip": "ExpenseTracker\\Extensions\\DataBaseRegistrationExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:42:51.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Program.cs*",
+              "RelativeToolTip": "ExpenseTracker\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:40:25.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivityLogEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\ActivityLogEndpoints.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\EndPoints\\ActivityLogEndpoints.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\ActivityLogEndpoints.cs",
+              "RelativeToolTip": "ExpenseTracker\\EndPoints\\ActivityLogEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:43:59.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistrationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Extensions\\ServiceRegistrationExtension.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Extensions\\ServiceRegistrationExtension.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Extensions\\ServiceRegistrationExtension.cs",
+              "RelativeToolTip": "ExpenseTracker\\Extensions\\ServiceRegistrationExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:43:33.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\RedisCacheService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\RedisCacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:45:53.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoActivityLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\MongoActivityLogService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\MongoActivityLogService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\MongoActivityLogService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\MongoActivityLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:47:33.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:42:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KPIRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\KPIRecordService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\KPIRecordService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\KPIRecordService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\KPIRecordService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:45:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\ExpenseService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\ExpenseService.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAiwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:42:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\ExchangeRateService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\ExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\ExchangeRateService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\ExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:45:48.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CubeService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\CubeService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\CubeService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\CubeService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\CubeService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:41:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:41:07.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CacheKeys.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\CacheKeys.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\CacheKeys.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\CacheKeys.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\CacheKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:45:43.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "ExpenseTracker\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:41:01.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExpenseDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\ExDbContext\\ExpenseDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\ExDbContext\\ExpenseDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\ExDbContext\\ExpenseDbContextFactory.cs",
+              "RelativeToolTip": "ExpenseTracker\\ExDbContext\\ExpenseDbContextFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:57:27.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\EndPoints\\UserEndpoints.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\UserEndpoints.cs",
+              "RelativeToolTip": "ExpenseTracker\\EndPoints\\UserEndpoints.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:48:55.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\ReportEndpoints.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\EndPoints\\ReportEndpoints.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\ReportEndpoints.cs",
+              "RelativeToolTip": "ExpenseTracker\\EndPoints\\ReportEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:49:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExpenseEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\ExpenseEndpoints.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\EndPoints\\ExpenseEndpoints.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\ExpenseEndpoints.cs",
+              "RelativeToolTip": "ExpenseTracker\\EndPoints\\ExpenseEndpoints.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:44:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\CategoryEndpoints.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\EndPoints\\CategoryEndpoints.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\CategoryEndpoints.cs",
+              "RelativeToolTip": "ExpenseTracker\\EndPoints\\CategoryEndpoints.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:44:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\AuthEndpoints.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\EndPoints\\AuthEndpoints.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\EndPoints\\AuthEndpoints.cs",
+              "RelativeToolTip": "ExpenseTracker\\EndPoints\\AuthEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:44:00.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Configurations\\DbInitializer\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Configurations\\DbInitializer\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Configurations\\DbInitializer\\DatabaseInitializer.cs",
+              "RelativeToolTip": "ExpenseTracker\\Configurations\\DbInitializer\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:01:55.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExpenseDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Migrations\\ExpenseDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Migrations\\ExpenseDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Migrations\\ExpenseDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ExpenseTracker\\Migrations\\ExpenseDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:59:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251027105934_nnn.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Migrations\\20251027105934_nnn.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Migrations\\20251027105934_nnn.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Migrations\\20251027105934_nnn.cs",
+              "RelativeToolTip": "ExpenseTracker\\Migrations\\20251027105934_nnn.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:59:34.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExpenseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\ExDbContext\\ExpenseDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\ExDbContext\\ExpenseDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\ExDbContext\\ExpenseDbContext.cs",
+              "RelativeToolTip": "ExpenseTracker\\ExDbContext\\ExpenseDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:56:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExpenseTracker\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\appsettings.Development.json",
+              "RelativeToolTip": "ExpenseTracker\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T10:52:41.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RepositoryRegistrationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Extensions\\RepositoryRegistrationExtension.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Extensions\\RepositoryRegistrationExtension.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\Extensions\\RepositoryRegistrationExtension.cs",
+              "RelativeToolTip": "ExpenseTracker\\Extensions\\RepositoryRegistrationExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:43:05.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\ExDbContext\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\ExDbContext\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\ExpenseTrackerApi\\ExpenseTracker\\ExDbContext\\MongoDbContext.cs",
+              "RelativeToolTip": "ExpenseTracker\\ExDbContext\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:42:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

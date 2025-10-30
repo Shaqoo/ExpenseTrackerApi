@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+
+# Exclude test projects from the build context
+# **/ExpenseTracker.Tests/
+# **/ExpenseTracker.Tests.csproj
+
+# Exclude IDE/editor-specific files
+.vs/
+.vscode/
+*.sln
